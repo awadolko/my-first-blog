@@ -47,3 +47,19 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+.jumbotron{
+	background-image:url('http://goo.gl/04j7Nn');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.jumbotron h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+
+
+}
